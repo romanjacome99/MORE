@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: WaveTF
+Version: 0.1
+Summary: 1D and 2D Wavelet library for TensorFlow and Keras
+Home-page: https://github.com/bla/WaveTF
+Author: Francesco Versaci
+Author-email: francesco.versaci@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Scientific/Engineering
+Classifier: Intended Audience :: Science/Research
+Requires-Python: >=3.6
+License-File: LICENSE
